@@ -10,7 +10,7 @@ print "printing"
 print "second print"
 print "\n"
 
-# p method gives a more literal value
+# p method gives a more literal value. really just calling .inspect on puts
 puts "Steven Seagal"
 p "Steven Seagal" # outputs "Steven Seagal"
 puts "Hi there, this is a 
