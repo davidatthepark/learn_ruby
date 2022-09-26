@@ -5,7 +5,7 @@ pi = 3.1415
 p pi.to_i
 p pi
 p true.class
-puts true.class 
+puts true.class
 p 5 == 5.0
 
 puts
